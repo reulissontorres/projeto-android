@@ -48,7 +48,6 @@ header > h1 {
     font-size: 3em;
     font-weight: normal;
     margin-bottom: 20px;
-    text-align: center;
     text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.400);
 }
 
@@ -60,6 +59,7 @@ header > p {
     padding-right: 10px;
     padding-left: 10px;
     margin-bottom: 20px;
+    text-align: center;
     text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.400);
 }
 
